@@ -1,0 +1,19 @@
+# local / notes
+.obsidian/
+BLOG.md
+LEARNING.md
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+
+# os / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
