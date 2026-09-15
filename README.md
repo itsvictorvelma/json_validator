@@ -1,6 +1,6 @@
 # json-parser
 
-Hand written JSON Parser. My solution for John Crickett's coding challenge at https://codingchallenges.substack.com/p/coding-challenge-2?utm_source=publication-search. Validates files via CLI (exit `0` / `1`).
+Hand written JSON validator. My solution for John Crickett's coding challenge at https://codingchallenges.substack.com/p/coding-challenge-2?utm_source=publication-search. Validates files via CLI (exit `0` / `1`).
 
 ```bash
 python3 parser.py -f tests/step1/valid.json
